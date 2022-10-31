@@ -1,7 +1,7 @@
-import PlacesList from "../components/Places/PlacesList";
+import PlaceForm from "../components/Places/PlaceForm";
 
-function AllPlaces() {
-  return <PlacesList />;
+function AddPlace() {
+  return <PlaceForm />;
 }
 
-export default AllPlaces;
+export default AddPlace;
